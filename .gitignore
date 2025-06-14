@@ -1,0 +1,39 @@
+# Node.js
+client/node_modules/
+client/.next/
+client/build/
+client/.cache/
+client/package-lock.json
+client/yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+*.env
+*.egg-info/
+*.pytest_cache/
+
+# Visual Studio Code
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Databases / Backups
+*.sqlite3
+*.db
+*.bak
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.swp
+

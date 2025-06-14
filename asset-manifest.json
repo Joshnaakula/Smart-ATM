@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smart-ATM/static/css/main.0eee5e43.css",
+    "main.js": "/Smart-ATM/static/js/main.256142f5.js",
+    "static/js/453.419a5d54.chunk.js": "/Smart-ATM/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Smart-ATM/index.html",
+    "main.0eee5e43.css.map": "/Smart-ATM/static/css/main.0eee5e43.css.map",
+    "main.256142f5.js.map": "/Smart-ATM/static/js/main.256142f5.js.map",
+    "453.419a5d54.chunk.js.map": "/Smart-ATM/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eee5e43.css",
+    "static/js/main.256142f5.js"
+  ]
+}
