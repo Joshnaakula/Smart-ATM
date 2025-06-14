@@ -1,0 +1,29 @@
+# Node.js
+client/node_modules/
+client/.next/
+client/build/
+client/.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+*.env
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Others
+*.sqlite3
+*.db
+*.bak
+
