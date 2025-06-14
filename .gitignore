@@ -3,6 +3,8 @@ client/node_modules/
 client/.next/
 client/build/
 client/.cache/
+client/package-lock.json
+client/yarn.lock
 
 # Python
 __pycache__/
@@ -11,19 +13,27 @@ __pycache__/
 venv/
 env/
 *.env
+*.egg-info/
+*.pytest_cache/
 
-# VS Code settings
+# Visual Studio Code
 .vscode/
 
-# OS-specific
+# macOS / Windows
 .DS_Store
 Thumbs.db
 
 # Logs
 *.log
 
-# Others
+# Databases / Backups
 *.sqlite3
 *.db
 *.bak
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.swp
 
